@@ -1,0 +1,3 @@
+npm init
+
+npm i express mongoose body-parser cors consola jsonwebtoken passport passport-jwt bcryptjs dotenv esm express-validator
